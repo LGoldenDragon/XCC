@@ -161,17 +161,17 @@ create table mistakes(
 
 
 
-![1](C:\Users\75246\Desktop\1.png)
+![1](./img/1.png)
 
 
 
 
 
-![2](C:\Users\75246\Desktop\2.png)
+![2](./img/1.png)
 
 
 
-![3](C:\Users\75246\Desktop\3.png)
+![3](./img/3.png)
 
 李金龙：修正考试页面,学生考试学生注册，学生成绩查询，学生成绩柱状图等，和管理员的增删教师。
 
